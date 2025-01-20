@@ -2,7 +2,7 @@
 <a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=9e62d7&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 <img src="https://qu.ax/lHrxl.jpeg" alt="GataBot-MD" style="width: 100%; height: auto; max-width: 500px;">
   
-> Antes de usar este repositorio, visita la **[Política de GataBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
+> Antes de usar este repositorio, visita la **[Política de GatoBot. 😼](https://github.com/GataNina-Li/GataBot-MD/blob/master/terms.md)** 
 </p>
 
 <p align="center">
